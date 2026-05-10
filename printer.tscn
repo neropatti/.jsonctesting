@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://4xd1fvprqd7b"]
+
+[ext_resource type="Script" uid="uid://pohoqlol23vo" path="res://printer.gd" id="1_jhpce"]
+
+[node name="Node" type="Node" unique_id=930722569]
+script = ExtResource("1_jhpce")
